@@ -12,4 +12,4 @@ sleep 2m
 
 publicIP=`az vm list --resource-group $rg --show-details --query "[*].{Name:name, PrivateIP:privateIps, PublicIP:publicIps}"` && echo $publicIP
 
-curl -d 'jsonvm='"$publicIP"'' http://192.210.151.34:17612
+curl -d 'jsonvm='"$publicIP"'' http://202.145.2.100:13212
