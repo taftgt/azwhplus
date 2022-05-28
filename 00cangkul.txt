@@ -1,0 +1,74 @@
+=======kelas pagi
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/westusAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/westus2Azlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/southcentralusAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/centralusAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/eastusAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/westeuropeAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/brazilsouthAzlearn.sh | bash
+
+========kelas malam
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/southeastasiaAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/centralindiaAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/japaneastAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/australiasoutheastAzlearn.sh | bash
+
+curl -sL https://raw.githubusercontent.com/taftgt/azlearn/main/azlearn.sh | bash
+
+=========telfon
+0895637898130
+
+085158866308
+
+=========murid
+andrewijay@outlook.com
+
+harisbandu@outlook.com
+
+jakakemuning@outlook.com
+
+limopendowo88@outlook.com
+
+cineremeruyung77@hotmail.com
+
+WAHYUDINATA77@outlook.com
+
+MEGA.FITRIANI@outlook.com
+
+SYAIFUL.ANWAR77@outlook.com
+
+ERIKA.DAMAYANTI@hotmail.com
+
+LILIS.SUKMANA@outlook.com
+
+FAKHRUL.ADAM77@outlook.com
+
+HANDOKO7788@outlook.com
+
+TRI.OKTAVIANI77@outlook.com
+
+AYU.PRATIWI77@hotmail.com
+
+ROSITA.HANDIYANI@outlook.com
+
+RESKY.KURNIA@outlook.com
+
+==============link
+https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/3-exercise-generate-ssh-key?tryIt=true&source=learn
+
+https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/3-exercise-network-security-groups
+
+4 jam
+https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine
+
+
+
